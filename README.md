@@ -1,5 +1,5 @@
 # mbedtls_android   
-
+#test at  Dec 17
 1. update your cross-aarch64-android.cmake
     set NDK to your local ndk path.This is my.
         set(NDK /Users/zhewu/Library/Android/sdk/ndk/24.0.8215888/)
